@@ -18,6 +18,6 @@ Full-stack software engineer with expertise in both frontend and backend develop
 ## Personal Projects
 
 - [VzdelavaciAppky.cz](https://vzdelavaciappky.cz): Curated directory of Czech educational apps for preschoolers from various developers.
-- [DiscoveryBible.cz](https://discoverybible.cz): App used by tens of Discovery groups.
-- [Religion in Czechia](https://dvopalecky.github.io/nabozenstvi-v-cesku-mapa/obce.html): Interactive visualization of religion by municipality
+- [DiscoveryBible.cz](https://discoverybible.cz): App used by tens of Discovery groups. Using MkDocs with customization and scripts to create also nicely looking printable versions.
+- [Religion in Czechia](https://dvopalecky.github.io/nabozenstvi-v-cesku-mapa/obce.html): Interactive visualization of religion by municipality or age.
 - [GenMapper](https://dvopalecky.github.io/gen-mapper/): App for mapping generations of simple churches. Translated to 8 languages, used by leaders in church planting movements all over the world. Forked by several similar projects.
