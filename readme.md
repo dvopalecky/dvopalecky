@@ -39,7 +39,7 @@ Full-stack software engineer with expertise in both frontend and backend develop
 </td>
 <td width="50%">
   <h3><a href="https://dvopalecky.github.io/gen-mapper/">GenMapper</a></h3>
-  <a href="https://dvopalecky.github.io/gen-mapper/"><img src="assets/genmapper-preview.png" alt="GenMapper Screenshot" width="400"></a>
+  <a href="https://dvopalecky.github.io/gen-mapper/"><img src="assets/genmapper-preview.jpg" alt="GenMapper Screenshot" width="400"></a>
   <p>App for mapping generations of simple churches. Translated to 8 languages, used by leaders in church planting movements worldwide.</p>
 </td>
 </tr>
