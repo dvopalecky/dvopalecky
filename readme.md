@@ -26,7 +26,7 @@ Full-stack software engineer with expertise in both frontend and backend develop
 </td>
 <td width="50%" valign="top">
   <h3><a href="https://discoverybible.cz">DiscoveryBible.cz</a></h3>
-  <p>App used by tens of Discovery groups. Using MkDocs with customization and scripts to create nicely looking printable versions.</p>
+  <p>App used by tens of Discovery groups. Used customized MkDocs with scripts to create nice printable versions.</p>
   <a href="https://discoverybible.cz"><img src="assets/discovery-preview.jpg" alt="DiscoveryBible Screenshot" width="400"></a>
 </td>
 </tr>
@@ -34,12 +34,12 @@ Full-stack software engineer with expertise in both frontend and backend develop
 <tr>
 <td width="50%" valign="top">
   <h3><a href="https://dvopalecky.github.io/nabozenstvi-v-cesku-mapa/obce.html">Religion in Czechia</a></h3>
-  <p>Interactive visualization of religion by municipality or age.</p>
+  <p>Interactive visualization of religion by municipality (map view) or age (pyramid view).</p>
   <a href="https://dvopalecky.github.io/nabozenstvi-v-cesku-mapa/obce.html"><img src="assets/religion-preview.jpg" alt="Religion in Czechia Screenshot" width="400"></a>
 </td>
 <td width="50%" valign="top">
   <h3><a href="https://dvopalecky.github.io/gen-mapper/">GenMapper</a></h3>
-  <p>App for mapping generations of simple churches. Translated to 8 languages, used by leaders in church planting movements worldwide.</p>
+  <p>App for mapping generations of simple churches. Translated to 8 languages, used by leaders worldwide.</p>
   <a href="https://dvopalecky.github.io/gen-mapper/"><img src="assets/genmapper-preview.jpg" alt="GenMapper Screenshot" width="400"></a>
 </td>
 </tr>
