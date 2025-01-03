@@ -17,7 +17,30 @@ Full-stack software engineer with expertise in both frontend and backend develop
 
 ## Personal Projects
 
-- [VzdelavaciAppky.cz](https://vzdelavaciappky.cz): Curated directory of Czech educational apps for preschoolers from various developers.
-- [DiscoveryBible.cz](https://discoverybible.cz): App used by tens of Discovery groups. Using MkDocs with customization and scripts to create also nicely looking printable versions.
-- [Religion in Czechia](https://dvopalecky.github.io/nabozenstvi-v-cesku-mapa/obce.html): Interactive visualization of religion by municipality or age.
-- [GenMapper](https://dvopalecky.github.io/gen-mapper/): App for mapping generations of simple churches. Translated to 8 languages, used by leaders in church planting movements all over the world. Forked by several similar projects.
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(400px, 1fr)); gap: 1rem;">
+
+<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 1rem; margin-bottom: 1rem;">
+    <h3><a href="https://vzdelavaciappky.cz">VzdelavaciAppky.cz</a></h3>
+    <img src="assets/vzdelavaci-appky-preview.jpg" alt="VzdelavaciAppky Screenshot" style="width: 100%; border-radius: 4px;">
+    <p>Curated directory of Czech educational apps for preschoolers from various developers.</p>
+</div>
+
+<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 1rem; margin-bottom: 1rem;">
+    <h3><a href="https://discoverybible.cz">DiscoveryBible.cz</a></h3>
+    <img src="assets/discovery-preview.jpg" alt="DiscoveryBible Screenshot" style="width: 100%; border-radius: 4px;">
+    <p>App used by tens of Discovery groups. Using MkDocs with customization and scripts to create nicely looking printable versions.</p>
+</div>
+
+<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 1rem; margin-bottom: 1rem;">
+    <h3><a href="https://dvopalecky.github.io/nabozenstvi-v-cesku-mapa/obce.html">Religion in Czechia</a></h3>
+    <img src="assets/religion-preview.jpg" alt="Religion in Czechia Screenshot" style="width: 100%; border-radius: 4px;">
+    <p>Interactive visualization of religion by municipality or age.</p>
+</div>
+
+<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 1rem; margin-bottom: 1rem;">
+    <h3><a href="https://dvopalecky.github.io/gen-mapper/">GenMapper</a></h3>
+    <img src="assets/genmapper-preview.png" alt="GenMapper Screenshot" style="width: 100%; border-radius: 4px;">
+    <p>App for mapping generations of simple churches. Translated to 8 languages, used by leaders in church planting movements worldwide.</p>
+</div>
+
+</div>
