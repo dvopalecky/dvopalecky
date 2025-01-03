@@ -17,30 +17,30 @@ Full-stack software engineer with expertise in both frontend and backend develop
 
 ## Personal Projects
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(400px, 1fr)); gap: 1rem;">
+<table>
+<tr>
+<td width="50%">
+  <h3><a href="https://vzdelavaciappky.cz">VzdelavaciAppky.cz</a></h3>
+  <a href="https://vzdelavaciappky.cz"><img src="assets/vzdelavaci-appky-preview.jpg" alt="VzdelavaciAppky Screenshot" width="400"></a>
+  <p>Curated directory of Czech educational apps for preschoolers from various developers.</p>
+</td>
+<td width="50%">
+  <h3><a href="https://discoverybible.cz">DiscoveryBible.cz</a></h3>
+  <a href="https://discoverybible.cz"><img src="assets/discovery-preview.jpg" alt="DiscoveryBible Screenshot" width="400"></a>
+  <p>App used by tens of Discovery groups. Using MkDocs with customization and scripts to create nicely looking printable versions.</p>
+</td>
+</tr>
 
-<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 1rem; margin-bottom: 1rem;">
-    <h3><a href="https://vzdelavaciappky.cz">VzdelavaciAppky.cz</a></h3>
-    <img src="assets/vzdelavaci-appky-preview.jpg" alt="VzdelavaciAppky Screenshot" style="width: 100%; border-radius: 4px;">
-    <p>Curated directory of Czech educational apps for preschoolers from various developers.</p>
-</div>
-
-<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 1rem; margin-bottom: 1rem;">
-    <h3><a href="https://discoverybible.cz">DiscoveryBible.cz</a></h3>
-    <img src="assets/discovery-preview.jpg" alt="DiscoveryBible Screenshot" style="width: 100%; border-radius: 4px;">
-    <p>App used by tens of Discovery groups. Using MkDocs with customization and scripts to create nicely looking printable versions.</p>
-</div>
-
-<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 1rem; margin-bottom: 1rem;">
-    <h3><a href="https://dvopalecky.github.io/nabozenstvi-v-cesku-mapa/obce.html">Religion in Czechia</a></h3>
-    <img src="assets/religion-preview.jpg" alt="Religion in Czechia Screenshot" style="width: 100%; border-radius: 4px;">
-    <p>Interactive visualization of religion by municipality or age.</p>
-</div>
-
-<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 1rem; margin-bottom: 1rem;">
-    <h3><a href="https://dvopalecky.github.io/gen-mapper/">GenMapper</a></h3>
-    <img src="assets/genmapper-preview.png" alt="GenMapper Screenshot" style="width: 100%; border-radius: 4px;">
-    <p>App for mapping generations of simple churches. Translated to 8 languages, used by leaders in church planting movements worldwide.</p>
-</div>
-
-</div>
+<tr>
+<td width="50%">
+  <h3><a href="https://dvopalecky.github.io/nabozenstvi-v-cesku-mapa/obce.html">Religion in Czechia</a></h3>
+  <a href="https://dvopalecky.github.io/nabozenstvi-v-cesku-mapa/obce.html"><img src="assets/religion-preview.jpg" alt="Religion in Czechia Screenshot" width="400"></a>
+  <p>Interactive visualization of religion by municipality or age.</p>
+</td>
+<td width="50%">
+  <h3><a href="https://dvopalecky.github.io/gen-mapper/">GenMapper</a></h3>
+  <a href="https://dvopalecky.github.io/gen-mapper/"><img src="assets/genmapper-preview.png" alt="GenMapper Screenshot" width="400"></a>
+  <p>App for mapping generations of simple churches. Translated to 8 languages, used by leaders in church planting movements worldwide.</p>
+</td>
+</tr>
+</table>
